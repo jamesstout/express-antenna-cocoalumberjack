@@ -20,6 +20,7 @@
     "express": "^4.8.5",
     "log": "^1.4.0",
     "winston": "^3.2.1",
+    "winston-daily-rotate-file": "^4.2.0",
     "underscore": "^1.6.0"
   },
   "files": [
