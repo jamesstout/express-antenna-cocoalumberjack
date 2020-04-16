@@ -19,7 +19,7 @@
     "debug": "^1.0.4",
     "express": "^4.8.5",
     "log": "^1.4.0",
-    "winston": "^3.6.1",
+    "winston": "^3.2.1",
     "underscore": "^1.6.0"
   },
   "files": [
