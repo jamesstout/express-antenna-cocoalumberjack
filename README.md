@@ -15,8 +15,9 @@ To configure it, you can supply the following env variables:
 
     export NODE_EXPRESS_ANTENNA_PORT=12345
     export NODE_EXPRESS_ANTENNA_LOG_PATH=/tmp/
+    export NODE_EXPRESS_ANTENNA_APP_NAME=myAppName
 
-To verify that the server is running, point your browser to http://yourhost:3205/ping/.
+To verify that the server is running, point your browser to <http://yourhost:3205/ping/>.
 
 On the objective-c project:
 
